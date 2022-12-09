@@ -1,2 +1,3 @@
 # exercism-rust
-Exercism exercises in Rust 
+
+[Exercism](https://exercism.org/tracks/rust) exercises in Rust! 
